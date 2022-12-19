@@ -1,6 +1,12 @@
 # Pharmeasy_clone
 This is a group project for unit 2 construct week
 
+![alt text](https://github.com/rahulb18/Pharmeasy-Clone/main/Images/1.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
+
 ## Features
 - Login/signup
 - Searching the medicines by their names.
