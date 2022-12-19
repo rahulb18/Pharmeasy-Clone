@@ -1,7 +1,7 @@
 # Pharmeasy_clone
 This is a group project for unit 2 construct week
 
-![alt text](https://github.com/rahulb18/Pharmeasy-Clone/main/Images/1.png?raw=true)
+![alt text](https://github.com/rahulb18/Pharmeasy-Clone/tree/main/Images/1.png?raw=true)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
