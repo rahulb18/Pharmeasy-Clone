@@ -3,6 +3,8 @@ This is a group project for unit 2 construct week
 
 ![ph2](https://user-images.githubusercontent.com/72690740/133028330-4463aaec-040f-4702-b3b9-1d350b88d468.PNG)
 
+![p8](https://user-images.githubusercontent.com/72690740/132959664-5a4484e2-d061-496e-8f95-a071ea5fe68d.PNG)
+
 ## Description
 Clone of PharmEasy website, which offers medicines and health products across various categories through its retail partners which are spread across the country. The tech stack used are HTML, CSS and JavaScript.
 
