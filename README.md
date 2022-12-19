@@ -1,12 +1,7 @@
 # Pharmeasy_clone
 This is a group project for unit 2 construct week
 
-![p15](https://user-images.githubusercontent.com/72690740/132959675-dbae57a0-0877-4a6d-974c-89dd245983ea.PNG)
-
-![p16](https://user-images.githubusercontent.com/72690740/132959674-38f176b4-3979-47f3-ae36-8e5795c16add.PNG)
-
-![p17](https://user-images.githubusercontent.com/72690740/132959673-c1d40b9c-27c5-4411-8fa0-fb0b54ff5999.PNG)
-
+![ph2](https://user-images.githubusercontent.com/72690740/133028330-4463aaec-040f-4702-b3b9-1d350b88d468.PNG)
 
 ## Description
 Clone of PharmEasy website, which offers medicines and health products across various categories through its retail partners which are spread across the country. The tech stack used are HTML, CSS and JavaScript.
