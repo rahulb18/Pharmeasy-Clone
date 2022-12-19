@@ -1,4 +1,4 @@
-# Project_Pharmeasy_clone
+# Pharmeasy_clone
 This is a group project for unit 2 construct week
 
 ## Features
