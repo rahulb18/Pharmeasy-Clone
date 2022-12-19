@@ -1,6 +1,8 @@
 # Pharmeasy_clone
 This is a group project for unit 2 construct week
 
+<img src='https://imgur.com/a/4to8Cu6' alt="homepage_image" />
+
 ## Description
 Clone of PharmEasy website, which offers medicines and health products across various categories through its retail partners which are spread across the country. The tech stack used are HTML, CSS and JavaScript.
 
