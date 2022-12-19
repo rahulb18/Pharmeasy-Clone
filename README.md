@@ -1,7 +1,7 @@
 # Pharmeasy_clone
 This is a group project for unit 2 construct week
 
-<img src='<blockquote class="imgur-embed-pub" lang="en" data-id="WkdGuUM"><a href="https://imgur.com/WkdGuUM">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' alt="homepage_image" />
+<img src='[<blockquote class="imgur-embed-pub" lang="en" data-id="WkdGuUM"><a href="https://imgur.com/WkdGuUM">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/gallery/WkdGuUM)' alt="homepage_image" />
 
 ## Description
 Clone of PharmEasy website, which offers medicines and health products across various categories through its retail partners which are spread across the country. The tech stack used are HTML, CSS and JavaScript.
